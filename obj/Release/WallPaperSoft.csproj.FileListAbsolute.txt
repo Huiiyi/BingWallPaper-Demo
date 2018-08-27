@@ -1,0 +1,8 @@
+C:\Users\qq745\Desktop\code\C#\winform\WallPaperSoft\WallPaperSoft\bin\Release\WallPaperSoft.exe
+C:\Users\qq745\Desktop\code\C#\winform\WallPaperSoft\WallPaperSoft\bin\Release\WallPaperSoft.pdb
+C:\Users\qq745\Desktop\code\C#\winform\WallPaperSoft\WallPaperSoft\obj\Release\WallPaperSoft.Form1.resources
+C:\Users\qq745\Desktop\code\C#\winform\WallPaperSoft\WallPaperSoft\obj\Release\WallPaperSoft.Properties.Resources.resources
+C:\Users\qq745\Desktop\code\C#\winform\WallPaperSoft\WallPaperSoft\obj\Release\WallPaperSoft.csproj.GenerateResource.cache
+C:\Users\qq745\Desktop\code\C#\winform\WallPaperSoft\WallPaperSoft\obj\Release\WallPaperSoft.csproj.CoreCompileInputs.cache
+C:\Users\qq745\Desktop\code\C#\winform\WallPaperSoft\WallPaperSoft\obj\Release\WallPaperSoft.exe
+C:\Users\qq745\Desktop\code\C#\winform\WallPaperSoft\WallPaperSoft\obj\Release\WallPaperSoft.pdb
